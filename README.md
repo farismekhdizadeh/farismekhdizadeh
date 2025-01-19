@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛰 I’m currently working on:<br>A pharmacy app project called Aloe+ as a Digital Marketing Specialist.<br><br>👫 I’m looking to collaborate with:<br>Data Scientists.<br><br>🤝 I’m looking for help with:<br>Learning Python.<br><br>🌱 I’m currently learning:<br>Python, Jupyter, SQL, R programming, and various Data Science topics.<br><br>⚡ Fun fact:<br>I’m afraid of the dark, which is why I prefer using light mode on apps!
+🛰 I’m currently working on:<br>A pharmacy app project called Aloe+ as a Digital Marketing Specialist.<br><br>👫 I’m looking to collaborate with:<br>Data Scientists.<br><br>🤝 I’m looking for help with:<br>Learning Python.<br><br>🌱 I’m currently learning:<br>Python, Jupyter, SQL, R programming, and various Data Science topics.<br><br>⚡ 
 
 
 ## 🌐 Socials:
