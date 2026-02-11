@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking for help with:<br>Learning Python.<br><br>🌱 I’m currently learning:<br>Python, Jupyter, SQL, R programming, and various Data Science topics.<br>
+🌱 I’m currently learning:<br>Python, Jupyter, SQL, R programming, and various Data Science topics.<br>
 
 
 ## 🌐 Socials:
